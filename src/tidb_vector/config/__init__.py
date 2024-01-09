@@ -1,0 +1,1 @@
+from tidb_vector.config.connection_config import ConnectionConfig

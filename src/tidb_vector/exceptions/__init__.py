@@ -1,0 +1,1 @@
+from tidb_vector.exceptions.validation import VectorCollectionValidationException
