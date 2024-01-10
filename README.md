@@ -17,7 +17,7 @@ TIDB_HOST=<your-cluster-host>
 TIDB_USER=<your-cluster-user>
 TIDB_PASSWORD=<your-cluster-password>
 TIDB_PORT=4000
-TIDB_DATABASE=<your-database-name>
+TIDB_DB_NAME=<your-database-name>
 ```
 
 ### Basic Usage
